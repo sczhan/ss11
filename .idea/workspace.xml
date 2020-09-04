@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/beidaqingniao/day4/demo1.py" description="staff_type" line="31" />
+    <bookmark url="file://$PROJECT_DIR$/beidaqingniao/day8/demo3.py" description="print(dt.setdefault(&quot;email&quot;, &quot;unknown&quot;), dt)" line="22" />
+    <bookmark url="file://$PROJECT_DIR$/beidaqingniao/day9/ex5.py" line="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e9b4f72-690e-4c55-93ef-ad98d9af90d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day1/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day1/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day1/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day1/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day10/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day2/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day3/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day4/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/deno6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day5/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/ex1_猜数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/ex2_fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day6/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day7/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day8/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/bts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/other.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/saka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/day9/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/ex/imgs/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/ex/imgs/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/ex/imgs/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/ex/imgs/效果图1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/ex/imgs/效果图2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day01/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/Ex1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/Ex1/imgs/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/Ex2/ex2-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/Ex2/ex2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/imgs/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/王永战/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day2/王永战/ex2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex1/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex1/imgs/one4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex1/imgs/one5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/imgs/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/imgs/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/ex2/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战/imgs/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战/imgs/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex1/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex1/imgs/one4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex1/imgs/one5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex2/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex2/imgs/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex2/imgs/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day4/王永战1/ex2/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/imgs/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/imgs/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/王永战/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/王永战/img/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day5/王永战/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day6/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day7/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day7/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day7/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day7/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day7/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/QQ图片20200222155033.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/ex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/王永战.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/王永战/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/day8/王永战/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/js/Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/js/Ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day10/王永战/js/Ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/js/Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/js/Ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/王永战.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/王永战/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/王永战/Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/王永战/js/Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day11/王永战/js/Ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/imgs/360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/imgs/baidu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/imgs/google.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战/Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战/imgs/360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战/imgs/baidu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战/imgs/google.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day12/王永战/js/Ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/d01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/d02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/d03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/magazine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d01/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/d06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/d02/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/account_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/admin_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/item_Dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/order_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/return_item_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/dao/user_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/return_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/entity/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/account_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/admin_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/item_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/order_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/return_item_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/service/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/ui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/ui/account.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/ui/item.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/ui/order.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/ui/user.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/utils/sno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket - 副本/utils/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/account_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/admin_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/item_Dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/lottery_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/order_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/return_item_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao/user_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/lottery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/return_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/account_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/admin_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/item_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/lottery_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/order_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/return_item_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui/account.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui/item.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui/order.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui/user.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/utils/sno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/utils/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/admin.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/admin_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/cashier_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/item_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/user.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao/user_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity/cashier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/service/admin_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/service/cashier_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/service/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/ul/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/ul/cashier.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/supermarket/ul/user.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/oop/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/shuruhanshu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beidaqingniao/shuruhanshu/shuru.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day7/demo10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/ex2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/ex3.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/ex2_fibo.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/ex3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo10.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo11.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/beidaqingniao/day2/demo2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/beidaqingniao/html/day8/9.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/day8/ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/css/style.css" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/day8/ex1/ex.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/js.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/3.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/4.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/js/5.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/6.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day9/7.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/3.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/4.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/7.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/6.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/ex/ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/ex/js/1.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/5.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/9.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/8.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/Ex3.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex1.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex2.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day10/js/Ex3.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/4.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/3.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/5.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/Ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/Ex2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/js/Ex1.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day11/js/Ex2.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/2.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/3.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/5.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/4.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/6.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/7.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/8.html" />
+        <option value="$PROJECT_DIR$/../北大青鸟/讲义/html/js/day12/d0229/8.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/ex1/Ex1.html" />
+        <option value="$PROJECT_DIR$/beidaqingniao/html/js/day12/ex1/js/Ex1.js" />
+        <option value="$PROJECT_DIR$/beidaqingniao/day6/ex3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wode" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study\beidaqingniao\html\js\day12\imgs" />
+      <recent name="F:\study\beidaqingniao\html\js\day12" />
+      <recent name="F:\study\beidaqingniao\html\day8" />
+      <recent name="F:\study\beidaqingniao\html\ex1\imgs" />
+      <recent name="F:\study\beidaqingniao\html\day5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\study\beidaqingniao\html\js\day9" />
+      <recent name="F:\study\beidaqingniao\html\js\day9\js" />
+      <recent name="F:\study\beidaqingniao\html\day8\ex1" />
+      <recent name="F:\study\beidaqingniao\html\day4\ex1" />
+      <recent name="F:\study\beidaqingniao\html\day4\ex\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ex3">
+    <configuration name="8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/beidaqingniao/html/js/day12/8.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex1.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/beidaqingniao/html/js/day12/王永战/Ex1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/beidaqingniao/html/js/day12/ex1/Ex1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beidaqingniao/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beidaqingniao/day7/demo10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beidaqingniao/day6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beidaqingniao/day6/ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex3" />
+        <item itemvalue="Python.demo10" />
+        <item itemvalue="JavaScript Debug.Ex1.html (1)" />
+        <item itemvalue="JavaScript Debug.Ex1.html" />
+        <item itemvalue="JavaScript Debug.8.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e9b4f72-690e-4c55-93ef-ad98d9af90d3" name="Default Changelist" comment="" />
+      <created>1577378483685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577378483685</updated>
+      <workItem from="1577378493186" duration="14000" />
+      <workItem from="1577378541505" duration="858000" />
+      <workItem from="1577380197520" duration="13000" />
+      <workItem from="1577381143994" duration="5000" />
+      <workItem from="1577492827626" duration="23326000" />
+      <workItem from="1577594983232" duration="29000" />
+      <workItem from="1577666120307" duration="23717000" />
+      <workItem from="1577706771796" duration="824000" />
+      <workItem from="1577751782313" duration="30328000" />
+      <workItem from="1577866232666" duration="549000" />
+      <workItem from="1577867364877" duration="16194000" />
+      <workItem from="1577891321753" duration="20000" />
+      <workItem from="1577924670828" duration="26538000" />
+      <workItem from="1577956386443" duration="7000" />
+      <workItem from="1577969809674" duration="953000" />
+      <workItem from="1577974836903" duration="23000" />
+      <workItem from="1578010699278" duration="29472000" />
+      <workItem from="1578048921947" duration="2391000" />
+      <workItem from="1578124678323" duration="1886000" />
+      <workItem from="1578270604235" duration="13000" />
+      <workItem from="1578288537764" duration="13056000" />
+      <workItem from="1578314329398" duration="12454000" />
+      <workItem from="1578326873129" duration="433000" />
+      <workItem from="1578356786641" duration="5543000" />
+      <workItem from="1578363052699" duration="17012000" />
+      <workItem from="1578400516675" duration="3551000" />
+      <workItem from="1578405692352" duration="2274000" />
+      <workItem from="1578443483549" duration="28864000" />
+      <workItem from="1578486183222" duration="12039000" />
+      <workItem from="1578500493186" duration="3517000" />
+      <workItem from="1578544962892" duration="8156000" />
+      <workItem from="1578553816330" duration="23953000" />
+      <workItem from="1578631953715" duration="13042000" />
+      <workItem from="1578649857474" duration="2698000" />
+      <workItem from="1578702132327" duration="21000" />
+      <workItem from="1578702746359" duration="1804000" />
+      <workItem from="1578710693701" duration="59000" />
+      <workItem from="1578720542707" duration="13131000" />
+      <workItem from="1578739886633" duration="661000" />
+      <workItem from="1579244135722" duration="6111000" />
+      <workItem from="1579584356097" duration="15444000" />
+      <workItem from="1580122179389" duration="601000" />
+      <workItem from="1580192802237" duration="15509000" />
+      <workItem from="1580273495628" duration="3674000" />
+      <workItem from="1580307789135" duration="122000" />
+      <workItem from="1580695752925" duration="4741000" />
+      <workItem from="1580710747418" duration="25300000" />
+      <workItem from="1580778322845" duration="3510000" />
+      <workItem from="1580795983893" duration="22587000" />
+      <workItem from="1580875953665" duration="21301000" />
+      <workItem from="1580957381913" duration="23578000" />
+      <workItem from="1581037952217" duration="17415000" />
+      <workItem from="1581157132505" duration="14638000" />
+      <workItem from="1581221414296" duration="22319000" />
+      <workItem from="1581244743593" duration="2633000" />
+      <workItem from="1581295518284" duration="3013000" />
+      <workItem from="1581301009910" duration="21661000" />
+      <workItem from="1581383328065" duration="19154000" />
+      <workItem from="1581555186517" duration="18851000" />
+      <workItem from="1581585932333" duration="509000" />
+      <workItem from="1581641891285" duration="16661000" />
+      <workItem from="1581680561983" duration="9026000" />
+      <workItem from="1581741474515" duration="33283000" />
+      <workItem from="1581786077424" duration="125000" />
+      <workItem from="1581918450783" duration="21810000" />
+      <workItem from="1582005308047" duration="9596000" />
+      <workItem from="1582029769506" duration="899000" />
+      <workItem from="1582089989704" duration="11740000" />
+      <workItem from="1582113710653" duration="427000" />
+      <workItem from="1582178056158" duration="10661000" />
+      <workItem from="1582247548376" duration="3633000" />
+      <workItem from="1582251375961" duration="1253000" />
+      <workItem from="1582252883337" duration="999000" />
+      <workItem from="1582261203693" duration="993000" />
+      <workItem from="1582264838258" duration="10720000" />
+      <workItem from="1582353126856" duration="8297000" />
+      <workItem from="1582361787435" duration="47000" />
+      <workItem from="1582372127040" duration="239000" />
+      <workItem from="1582506109964" duration="8314000" />
+      <workItem from="1582592442428" duration="29397000" />
+      <workItem from="1582766197300" duration="15373000" />
+      <workItem from="1582790900950" duration="41000" />
+      <workItem from="1582815553982" duration="73000" />
+      <workItem from="1582938119542" duration="11973000" />
+      <workItem from="1582952873308" duration="2756000" />
+      <workItem from="1582955792268" duration="785000" />
+      <workItem from="1582956765395" duration="3279000" />
+      <workItem from="1587523581538" duration="2019000" />
+      <workItem from="1587603507341" duration="1477000" />
+      <workItem from="1596716776956" duration="1170000" />
+      <workItem from="1599165220087" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="799190000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" weight="0.9585062" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.1266756" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32390383" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930844" weight="0.31759655" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.4950495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5006916" side_tool="true" weight="0.48354793" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.39886847" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
+      <window_info anchor="bottom" id="Log Analyzer" order="14" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.15951742" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32918397" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study$demo8__1_.coverage" NAME="demo8 (1) Coverage Results" MODIFIED="1577763346720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day3" />
+    <SUITE FILE_PATH="coverage/study$demo6__1_.coverage" NAME="demo6 (1) Coverage Results" MODIFIED="1577761049268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day4" />
+    <SUITE FILE_PATH="coverage/study$d01.coverage" NAME="d01 Coverage Results" MODIFIED="1580801093665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$d04.coverage" NAME="d04 Coverage Results" MODIFIED="1580804504006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$dem_day2.coverage" NAME="dem_day2 Coverage Results" MODIFIED="1577494271719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$demo.coverage" NAME="demo Coverage Results" MODIFIED="1578023416189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$return_item.coverage" NAME="return_item Coverage Results" MODIFIED="1581320623759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$user_dao.coverage" NAME="user_dao Coverage Results" MODIFIED="1581077556452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao" />
+    <SUITE FILE_PATH="coverage/study$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1587524685181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day7" />
+    <SUITE FILE_PATH="coverage/study$demo1_day2.coverage" NAME="demo1_day2 Coverage Results" MODIFIED="1577494716896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$demo2_day2.coverage" NAME="demo2_day2 Coverage Results" MODIFIED="1577495473138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1580276130691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1578474630965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$ex2__1_.coverage" NAME="ex2 (1) Coverage Results" MODIFIED="1578723753465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$demo6_day2.coverage" NAME="demo6_day2 Coverage Results" MODIFIED="1577501440351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1578404108909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$user.coverage" NAME="user Coverage Results" MODIFIED="1581170162194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1578731770044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$admin.coverage" NAME="admin Coverage Results" MODIFIED="1581039926940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$order.coverage" NAME="order Coverage Results" MODIFIED="1581244001450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$cashier_dao.coverage" NAME="cashier_dao Coverage Results" MODIFIED="1581045254253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1579244567170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$cashier_dao__1_.coverage" NAME="cashier_dao (1) Coverage Results" MODIFIED="1581048020677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao" />
+    <SUITE FILE_PATH="coverage/study$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1581325145155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/entity" />
+    <SUITE FILE_PATH="coverage/study$order_service.coverage" NAME="order_service Coverage Results" MODIFIED="1581247109683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/service" />
+    <SUITE FILE_PATH="coverage/study$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1581247856627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui" />
+    <SUITE FILE_PATH="coverage/study$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1579246379834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$d01__1_.coverage" NAME="d01 (1) Coverage Results" MODIFIED="1580810345057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1582638501789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day4" />
+    <SUITE FILE_PATH="coverage/study$d03.coverage" NAME="d03 Coverage Results" MODIFIED="1580815759250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$admin_dao.coverage" NAME="admin_dao Coverage Results" MODIFIED="1581002345241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/supermarket/dao" />
+    <SUITE FILE_PATH="coverage/study$demo5_day2.coverage" NAME="demo5_day2 Coverage Results" MODIFIED="1577499636636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$shuru.coverage" NAME="shuru Coverage Results" MODIFIED="1578125399858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/shuruhanshu" />
+    <SUITE FILE_PATH="coverage/study$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1578402219383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$deno6.coverage" NAME="deno6 Coverage Results" MODIFIED="1577970391437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day5" />
+    <SUITE FILE_PATH="coverage/study$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1578468061020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$sno.coverage" NAME="sno Coverage Results" MODIFIED="1581245508814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/utils" />
+    <SUITE FILE_PATH="coverage/study$magazine.coverage" NAME="magazine Coverage Results" MODIFIED="1580996603838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d01" />
+    <SUITE FILE_PATH="coverage/study$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1581327077725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/ui" />
+    <SUITE FILE_PATH="coverage/study$ex2_.coverage" NAME="ex2_体重 Coverage Results" MODIFIED="1578126135951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1578474619552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$d02.coverage" NAME="d02 Coverage Results" MODIFIED="1580965126985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d01" />
+    <SUITE FILE_PATH="coverage/study$demo8_day2.coverage" NAME="demo8_day2 Coverage Results" MODIFIED="1577503214308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$test.coverage" NAME="test Coverage Results" MODIFIED="1581325125348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop" />
+    <SUITE FILE_PATH="coverage/study$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1578644861840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1580208768525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1596717202658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$ex3__1_.coverage" NAME="ex3 (1) Coverage Results" MODIFIED="1578727321940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1580798886942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d01" />
+    <SUITE FILE_PATH="coverage/study$demo4_day2.coverage" NAME="demo4_day2 Coverage Results" MODIFIED="1577497902099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$input__.coverage" NAME="input(输入) Coverage Results" MODIFIED="1578124898106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1582646888154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day5" />
+    <SUITE FILE_PATH="coverage/study$ex1_.coverage" NAME="ex1_猜数字 Coverage Results" MODIFIED="1578125680818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$d06.coverage" NAME="d06 Coverage Results" MODIFIED="1580895503645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$factory.coverage" NAME="factory Coverage Results" MODIFIED="1580993263353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$ex1_hannouta.coverage" NAME="ex1_hannouta Coverage Results" MODIFIED="1578049631608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1580711955253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$d05.coverage" NAME="d05 Coverage Results" MODIFIED="1580827619638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d02" />
+    <SUITE FILE_PATH="coverage/study$book.coverage" NAME="book Coverage Results" MODIFIED="1580980590380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d01" />
+    <SUITE FILE_PATH="coverage/study$user_dao__1_.coverage" NAME="user_dao (1) Coverage Results" MODIFIED="1581228402968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/new_supermarket/dao" />
+    <SUITE FILE_PATH="coverage/study$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1580798932137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/oop/d01" />
+    <SUITE FILE_PATH="coverage/study$demo7_day2.coverage" NAME="demo7_day2 Coverage Results" MODIFIED="1577504596654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day2" />
+    <SUITE FILE_PATH="coverage/study$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1578013805865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day6" />
+    <SUITE FILE_PATH="coverage/study$demo3_day2.coverage" NAME="demo3_day2 Coverage Results" MODIFIED="1577496907680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao" />
+    <SUITE FILE_PATH="coverage/study$demo3__1_.coverage" NAME="demo3 (1) Coverage Results" MODIFIED="1578379546216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1578469672808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day9" />
+    <SUITE FILE_PATH="coverage/study$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1577670429274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day3" />
+    <SUITE FILE_PATH="coverage/study$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1578500518202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+    <SUITE FILE_PATH="coverage/study$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1580700494490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beidaqingniao/day8" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day7/demo9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo12.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day8/demo9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day9/demo6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day9/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day3/demo9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day4/demo9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/demo5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/deno6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/demo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day7/demo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day7/demo10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/ex2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day5/ex3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/ex2_fibo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beidaqingniao/day6/ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
